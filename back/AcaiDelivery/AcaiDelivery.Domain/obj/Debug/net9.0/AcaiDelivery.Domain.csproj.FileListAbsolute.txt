@@ -1,0 +1,4 @@
+C:\Users\vinic\Documents\C#\GitHub\AcaiDelivery\AcaiDelivery.Domain\obj\Debug\net9.0\AcaiDelivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\C#\GitHub\AcaiDelivery\AcaiDelivery.Domain\obj\Debug\net9.0\AcaiDelivery.Domain.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\C#\GitHub\AcaiDelivery\AcaiDelivery.Domain\obj\Debug\net9.0\AcaiDelivery.Domain.AssemblyInfo.cs
+C:\Users\vinic\Documents\C#\GitHub\AcaiDelivery\AcaiDelivery.Domain\obj\Debug\net9.0\AcaiDelivery.Domain.csproj.CoreCompileInputs.cache
